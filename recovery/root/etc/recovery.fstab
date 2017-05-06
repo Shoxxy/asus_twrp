@@ -1,0 +1,11 @@
+
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID013   /splash   emmc     defaults	
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID071	 /boot     emmc     defaults
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID074   /misc     emmc	    defaults
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID121   /recovery emmc     defaults	
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID076   /nvm_fs_partition  ext4 defaults	
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID070	 /cache    ext4     defaults
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID068   /system   ext4     defaults	
+/dev/block/platform/soc0/e0000000.noc/by-name/ImcPartID069   /data     ext4     defaults
+/dev/block/mmcblk0p1 /dev/block/mmcblk0                      /external_sd  auto defaults
+/dev/block/sda1		/dev/block/sda                           /usb_otg  auto     defaults
